@@ -23,6 +23,7 @@ dependencies:
   - datashader
   - geopandas
   - fiona
+  - paramiko
   - pip
   - pip:
     - -r doc-requirements.txt
